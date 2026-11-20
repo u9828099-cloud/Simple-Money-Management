@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Simple Money Management</string>
+
+    <!-- MainActivity / Dashboard -->
+    <string name="dashboard_greeting">Halo, kelola keuanganmu hari ini</string>
+    <string name="label_net_balance">Saldo Bersih</string>
+    <string name="label_total_income">Total Pemasukan</string>
+    <string name="label_total_expense">Total Pengeluaran</string>
+    <string name="label_recent_transactions">Transaksi Terbaru</string>
+    <string name="label_transaction_count_empty">0 transaksi</string>
+    <string name="label_transaction_count_format">%d transaksi</string>
+    <string name="empty_transactions_title">Belum ada transaksi</string>
+    <string name="empty_transactions_subtitle">Tekan tombol + untuk mencatat pemasukan atau pengeluaran pertamamu.</string>
+    <string name="btn_share_summary">Bagikan Ringkasan</string>
+    <string name="cd_add_transaction">Tambah transaksi baru</string>
+    <string name="cd_wallet_icon">Ikon dompet</string>
+    <string name="cd_empty_illustration">Ilustrasi belum ada transaksi</string>
+    <string name="share_chooser_title">Bagikan Ringkasan Keuangan</string>
+
+    <!-- AddTransactionActivity -->
+    <string name="title_add_transaction">Tambah Transaksi</string>
+    <string name="subtitle_add_transaction">Catat arus kas masuk atau keluar dengan rapi</string>
+    <string name="label_transaction_type">Jenis Transaksi</string>
+    <string name="radio_income">Pemasukan (IN)</string>
+    <string name="radio_expense">Pengeluaran (OUT)</string>
+    <string name="label_transaction_title">Judul / Keterangan</string>
+    <string name="hint_transaction_title">Contoh: Gaji Bulanan atau Makan Siang</string>
+    <string name="label_transaction_amount">Nominal (Rp)</string>
+    <string name="hint_transaction_amount">Masukkan angka, misal 50000</string>
+    <string name="btn_save">Simpan</string>
+    <string name="btn_cancel">Batal</string>
+    <string name="cd_navigate_back">Kembali</string>
+    <string name="error_title_required">Judul transaksi wajib diisi</string>
+    <string name="error_amount_required">Nominal wajib diisi</string>
+    <string name="error_amount_invalid">Nominal harus lebih besar dari nol</string>
+    <string name="error_amount_digits_only">Nominal hanya boleh berisi angka</string>
+
+    <!-- DetailTransactionActivity -->
+    <string name="title_detail_transaction">Detail Transaksi</string>
+    <string name="label_detail_name">Nama Transaksi</string>
+    <string name="label_detail_amount">Nominal</string>
+    <string name="label_detail_type">Jenis Transaksi</string>
+    <string name="label_detail_date">Tanggal Transaksi</string>
+    <string name="label_detail_id">ID Transaksi</string>
+    <string name="type_income_label">Pemasukan (IN)</string>
+    <string name="type_expense_label">Pengeluaran (OUT)</string>
+    <string name="btn_back">Kembali</string>
+    <string name="detail_missing_error">Data transaksi tidak ditemukan</string>
+
+    <!-- Currency & Formats -->
+    <string name="default_zero_rupiah">Rp0</string>
+</resources>

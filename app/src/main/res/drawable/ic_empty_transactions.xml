@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="120dp"
+    android:height="120dp"
+    android:viewportWidth="120"
+    android:viewportHeight="120">
+    <!-- Soft circle backdrop -->
+    <path
+        android:fillColor="#E6F4EF"
+        android:pathData="M60,12A48,48 0,1 1,60 108A48,48 0,1 1,60 12Z" />
+    <!-- Minimalist receipt / ledger card -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M34,34C34,30.69 36.69,28 40,28H80C83.31,28 86,30.69 86,34V86C86,89.31 83.31,92 80,92H40C36.69,92 34,89.31 34,86V34Z" />
+    <path
+        android:fillColor="#D4E8DF"
+        android:pathData="M40,28H80C83.31,28 86,30.69 86,34V40H34V34C34,30.69 36.69,28 40,28Z" />
+    <!-- Emerald coin circle -->
+    <path
+        android:fillColor="#087F5B"
+        android:pathData="M60,47A11,11 0,1 1,60 69A11,11 0,1 1,60 47Z" />
+    <!-- Subtle inner plus/bar lines -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M58.5,52H61.5V64H58.5Z" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M54,56.5H66V59.5H54Z" />
+    <!-- Ledger lines -->
+    <path
+        android:fillColor="#CFE0D8"
+        android:pathData="M43,75H77C78.1,75 79,75.9 79,77C79,78.1 78.1,79 77,79H43C41.9,79 41,78.1 41,77C41,75.9 41.9,75 43,75Z" />
+    <path
+        android:fillColor="#E1EDE7"
+        android:pathData="M48,83H72C73.1,83 74,83.9 74,85C74,86.1 73.1,87 72,87H48C46.9,87 46,86.1 46,85C46,83.9 46.9,83 48,83Z" />
+</vector>

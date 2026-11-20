@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Emerald Green Finance Theme Palette -->
+    <color name="emerald_primary">#087F5B</color>
+    <color name="emerald_primary_dark">#065F46</color>
+    <color name="emerald_primary_light">#0B946B</color>
+    <color name="emerald_soft">#E6F4EF</color>
+
+    <!-- Surface & Background -->
+    <color name="bg_screen">#F5F7F6</color>
+    <color name="white">#FFFFFF</color>
+    <color name="surface_border">#E4EBE7</color>
+
+    <!-- Financial Semantic Colors -->
+    <color name="income_green">#168A55</color>
+    <color name="income_bg">#E8F7EF</color>
+    <color name="expense_red">#D64545</color>
+    <color name="expense_bg">#FDECEC</color>
+
+    <!-- Typography Colors -->
+    <color name="text_primary">#17211D</color>
+    <color name="text_secondary">#738078</color>
+    <color name="text_on_emerald_muted">#D2EFE4</color>
+</resources>

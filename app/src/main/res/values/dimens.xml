@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="spacing_xs">4dp</dimen>
+    <dimen name="spacing_sm">8dp</dimen>
+    <dimen name="spacing_md">16dp</dimen>
+    <dimen name="spacing_lg">24dp</dimen>
+    <dimen name="spacing_xl">32dp</dimen>
+
+    <dimen name="card_corner_radius">16dp</dimen>
+    <dimen name="item_corner_radius">14dp</dimen>
+    <dimen name="badge_corner_radius">12dp</dimen>
+    <dimen name="button_corner_radius">12dp</dimen>
+
+    <dimen name="min_touch_target">48dp</dimen>
+    <dimen name="icon_size_sm">20dp</dimen>
+    <dimen name="icon_size_md">24dp</dimen>
+    <dimen name="badge_size">42dp</dimen>
+    <dimen name="empty_illustration_size">120dp</dimen>
+</resources>

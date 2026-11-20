@@ -1,0 +1,6 @@
+{
+  "name": "Simple Money Management",
+  "description": "Aplikasi pencatat keuangan pribadi Android Native dengan tema Emerald Green Finance.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
